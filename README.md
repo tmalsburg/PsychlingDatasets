@@ -3,7 +3,7 @@ A directory of publicly available data sets from psycholinguistic studies.  At t
 
 **Who can contribute:**  Anyone can contribute their own data sets or add information about other people’s data sets if there is a link, the data was published with the author’s consent, and there is a publication that describes the data.
 
-**How to contribute:** [Click here to edit](https://github.com/tmalsburg/PsychlingDatasets/edit/master/README.md) this page.  Editing requires that you have a Github account.  [Markdown](https://guides.github.com/features/mastering-markdown/) is used for formatting.  Before submitting your changes, write a short summary of what you did.
+**How to contribute:** [Click here to edit](https://github.com/tmalsburg/PsychlingDatasets/edit/master/README.md) this page.  Editing requires that you have a Github account.  [Markdown](https://guides.github.com/features/mastering-markdown/) is used for formatting.  Before submitting your contribution, write a one-sentence summary of what you changed.
 
 **Structure of this document:** We’ll start with a simple list of data sets and will evolve this into something more organized as the list grows.  However, for each entry please provide at least the following information:
 
