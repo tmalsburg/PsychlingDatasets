@@ -15,12 +15,11 @@ Entries are separated by a horzontal rule (`---`).
 
 ## Data sets
 
----
-Reference: Nicenboim, B., Vasishth, S., Gattei, C., Sigman, M., & Kliegl, R. (2015). Working memory differences in long-distance dependency resolution. Frontiers in Psychology.  http://dx.doi.org/10.3389/fpsyg.2015.00312
+**Reference:** Nicenboim, B., Vasishth, S., Gattei, C., Sigman, M., & Kliegl, R. (2015). Working memory differences in long-distance dependency resolution. Frontiers in Psychology.  http://dx.doi.org/10.3389/fpsyg.2015.00312
 
-Type of data: Self-paced reading
+**Type of data:** Self-paced reading
 
-Link: https://github.com/bnicenboim/papers/tree/master/NicenboimEtAl2015.%20Working%20memory%20differences%20in%20long-distance%20dependency%20resolution
+**Link:** https://github.com/bnicenboim/papers/tree/master/NicenboimEtAl2015.%20Working%20memory%20differences%20in%20long-distance%20dependency%20resolution
 
 ---
 
