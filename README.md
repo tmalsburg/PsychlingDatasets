@@ -20,6 +20,7 @@ Reference: Nicenboim, B., Vasishth, S., Gattei, C., Sigman, M., & Kliegl, R. (20
 
 Type of data: Self-paced reading
 
-URL: https://github.com/bnicenboim/papers/tree/master/NicenboimEtAl2015.%20Working%20memory%20differences%20in%20long-distance%20dependency%20resolution
+Link: https://github.com/bnicenboim/papers/tree/master/NicenboimEtAl2015.%20Working%20memory%20differences%20in%20long-distance%20dependency%20resolution
+
 ---
 
